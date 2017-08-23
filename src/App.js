@@ -6,6 +6,7 @@ class App extends Component {
       <div>
         Hola
         <h1>Esto es un ejemplo</h1>
+        <h1>Esto es un ejemplo2</h1>
       </div>
     );
   }
